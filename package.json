@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DanielGillett/test-api/issues"
   },
-  "homepage": "https://github.com/DanielGillett/test-api#readme"
+  "homepage": "https://github.com/DanielGillett/test-api#readme",
+  "dependencies": {
+    "knope": "^1.1.2"
+  }
 }
